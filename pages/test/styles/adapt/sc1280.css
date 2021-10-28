@@ -1,0 +1,26 @@
+main{
+    height: 2000px;
+    padding-bottom: 0px;
+}
+
+main article{
+    width: 52%;
+    margin-left: 11%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    
+}
+
+main aside{
+    width: 25%;
+    margin-right: 11%;
+}
+
+footer{
+    height: 900px;
+}
+
+.art{
+    height: 15%;
+}
