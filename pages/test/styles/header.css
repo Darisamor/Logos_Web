@@ -1,0 +1,42 @@
+.menu{
+   display: flex;
+   justify-items: center;
+   justify-content: space-evenly;
+   flex-direction: row;
+   text-align: center;
+   background-size: cover;
+   font-style: oblique;
+   font-size: 20px;
+   padding: 10px;
+   width: 500px;
+   margin: 0 auto;
+   margin-bottom: 50px;
+}
+.name{ 
+   font-family: 'Alpha echo', Arial, sans-serif;
+   display: flex;
+   justify-content: center;   
+   padding: 20px;
+   font-size: 40px;
+   margin-top: 50px;
+}
+
+
+.menu-element{
+   width: 100px;
+   height: 30px;
+   color: lightslategrey;
+   text-align: center;
+   vertical-align: middle;
+}
+
+.news{
+   background-color: crimson;
+   border-radius: 6px;
+   color: rgb(255, 255, 255);
+}
+
+.menu-element:hover {
+   background-color: rgba(229, 226, 226, 0.993);
+   color: #000; 
+}
